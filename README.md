@@ -6,12 +6,12 @@ void main()
   int i,total=0, num, value;
   float avg_of_num;
   printf ("enter how many numbers to be read");
-  scanf ("%d",num);
+  scanf ("%d",&num);
   
   for(i=0;i<num;i++)
   {
     printf ("enter the number:/n");
-    scanf ("%d",value);
+    scanf ("%d",&value);
     total = total + value;
     
   }
