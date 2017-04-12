@@ -1,4 +1,4 @@
-# basic-c-programming
+#Average of n numbers 
 
 #include <stdio.h>
 void main()
